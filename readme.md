@@ -30,11 +30,11 @@ bower install --save jsmicro-is-boolean
 ## NodeJS Usage
 
 ```bash
-npm install --save jsmicro-is-boolean
+npm install --save @jsmicro/is-boolean
 ```
 
 ```js
-const obj = require('jsmicro-is-boolean');
+const obj = require('@jsmicro/is-boolean');
 
 // Available in the global object.
 isBoolean(false); // true
